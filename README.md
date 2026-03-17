@@ -1,4 +1,4 @@
-# EX. NO: 1(A) : IMPLEMENTATION OF CAESAR CIPHER
+# EX. NO: 1 : IMPLEMENTATION OF CAESAR CIPHER
 
 ## AIM:
 To implement the simple substitution technique named Caesar cipher using C language.
@@ -16,7 +16,7 @@ STEP-4: Else subtract the key from the plain text.
 STEP-5: Display the cipher text obtained above.
 
 ## PROGRAM:
-```
+```c
 ## PROGRAM:
 #include <stdio.h> 
 #include <string.h> 
